@@ -1,4 +1,3 @@
-# neowizard
 
 YouTube 강의 사이트 : https://www.youtube.com/neowizard
 
