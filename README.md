@@ -1,7 +1,7 @@
 
 YouTube 강의 사이트 : https://www.youtube.com/neowizard
 
-YouTube 강좌인 MachineL Learning / Deep Learning / Data Analysis 실습 예제입니다
+YouTube 강좌인 Machine Learning / Deep Learning / Data Analysis 실습 예제입니다
 
 - 머신러닝 / 딥러닝 (순수한 Python 구현버전과 TensorFlow 구현버전) 실습 예제
 
