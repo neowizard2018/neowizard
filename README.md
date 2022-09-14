@@ -7,6 +7,8 @@ YouTube 강좌인 Machine Learning / Deep Learning / TensorFlow 2.x / Data Analy
 
 - TensorFlow 2.x 실습 예제
 
+- 딥러닝 컴퓨터비전 프로젝트 예제 (TensorFlow 2.x 버전)
+
 - 데이터분석 / 판다스 실습 예제  (Pandas 활용) 
 
 깃허브의 오른쪽 위에 있는 Clone or Download 버튼(초록색 버튼)으로 내려받을 수 있습니다.
