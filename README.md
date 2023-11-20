@@ -6,6 +6,8 @@ YouTube 강좌인 Machine Learning / Deep Learning / TensorFlow 2.x / Data Analy
 - 머신러닝 / 딥러닝 실습 예제  (순수 Python 버전, TensorFlow 1.15 버전)
 
 - TensorFlow 2.x 실습 예제
+  
+- PyTorch 2.x 실습 예제
 
 - 딥러닝 컴퓨터비전 프로젝트 예제 (TensorFlow 2.x 버전, YOLOv8)
 
