@@ -1,7 +1,7 @@
 
 YouTube 강의 사이트 : https://www.youtube.com/neowizard
 
-YouTube 강좌인 Machine Learning / Deep Learning / TensorFlow 2.x / Data Analysis 실습 예제입니다
+YouTube 강좌인 Machine Learning / Deep Learning / TensorFlow 2.x / PyTorch 2.x / Data Analysis 실습 예제입니다
 
 - 머신러닝 / 딥러닝 실습 예제  (순수 Python 버전, TensorFlow 1.15 버전)
 
