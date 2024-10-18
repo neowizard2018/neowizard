@@ -9,7 +9,7 @@ YouTube 강좌인 Machine Learning / Deep Learning / TensorFlow 2.x / PyTorch 2.
   
 - PyTorch 2.x 실습 예제
 
-- 딥러닝 컴퓨터비전 프로젝트 예제 (TensorFlow 2.x 버전, YOLOv8)
+- 딥러닝 컴퓨터비전 프로젝트 예제 (TensorFlow 2.x 버전, YOLOv8, YOLO11)
 
 - 데이터분석 / 판다스 실습 예제  (Pandas 활용) 
 
